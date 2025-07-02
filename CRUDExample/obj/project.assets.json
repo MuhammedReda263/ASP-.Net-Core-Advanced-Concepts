@@ -10005,11 +10005,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\CRUDExample\\CRUDExample.csproj",
+      "projectUniqueName": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDExample\\CRUDExample.csproj",
       "projectName": "CRUDExample",
-      "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\CRUDExample\\CRUDExample.csproj",
+      "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDExample\\CRUDExample.csproj",
       "packagesPath": "C:\\Users\\Muhammed Reda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\CRUDExample\\obj\\",
+      "outputPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Muhammed Reda\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10027,14 +10027,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\Entities\\Entities.csproj"
+            "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Entities\\Entities.csproj"
             },
-            "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\ServiceContracts\\ServiceContracts.csproj": {
-              "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\ServiceContracts\\ServiceContracts.csproj"
+            "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\ServiceContracts\\ServiceContracts.csproj": {
+              "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\ServiceContracts\\ServiceContracts.csproj"
             },
-            "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\Services\\Services.csproj": {
-              "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\Services\\Services.csproj"
+            "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Services\\Services.csproj"
             }
           }
         }

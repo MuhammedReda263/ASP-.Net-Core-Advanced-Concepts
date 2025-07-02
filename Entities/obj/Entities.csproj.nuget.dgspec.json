@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\Entities\\Entities.csproj": {}
+    "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\Entities\\Entities.csproj": {
+    "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Muhammed Reda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Muhammed Reda\\AppData\\Roaming\\NuGet\\NuGet.Config",
