@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\muhammed reda\\desktop\\new folder\\crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\muhammed reda\\desktop\\new folder\\crudexample\\views\\persons\\personspdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\persons\\personspdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\muhammed reda\\desktop\\new folder\\crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\muhammed reda\\desktop\\new folder\\crudexample\\views\\shared\\_gridcolumnheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\shared\\_gridcolumnheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\muhammed reda\\desktop\\new folder\\crudexample\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD158910-6639-408C-B008-F7220FBB6E18}|Entities\\Entities.csproj|c:\\users\\muhammed reda\\desktop\\new folder\\entities\\personsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD158910-6639-408C-B008-F7220FBB6E18}|Entities\\Entities.csproj|solutionrelative:entities\\personsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51AA4BB6-DB84-4E44-A001-924D25820FA7}|Services\\Services.csproj|c:\\users\\muhammed reda\\desktop\\new folder\\services\\personsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51AA4BB6-DB84-4E44-A001-924D25820FA7}|Services\\Services.csproj|solutionrelative:services\\personsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\muhammed reda\\desktop\\new folder\\crudexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\muhammed reda\\desktop\\new folder\\crudexample\\persons.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\persons.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\muhammed reda\\desktop\\new folder\\crudexample\\countries.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\countries.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonsController.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\CRUDExample\\Controllers\\PersonsController.cs",
+              "RelativeDocumentMoniker": "CRUDExample\\Controllers\\PersonsController.cs",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\CRUDExample\\Controllers\\PersonsController.cs*",
+              "RelativeToolTip": "CRUDExample\\Controllers\\PersonsController.cs*",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAwwK4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T22:10:34.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonsPDF.cshtml",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\CRUDExample\\Views\\Persons\\PersonsPDF.cshtml",
+              "RelativeDocumentMoniker": "CRUDExample\\Views\\Persons\\PersonsPDF.cshtml",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\CRUDExample\\Views\\Persons\\PersonsPDF.cshtml",
+              "RelativeToolTip": "CRUDExample\\Views\\Persons\\PersonsPDF.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T22:10:02.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_GridColumnHeader.cshtml",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\CRUDExample\\Views\\Shared\\_GridColumnHeader.cshtml",
+              "RelativeDocumentMoniker": "CRUDExample\\Views\\Shared\\_GridColumnHeader.cshtml",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\CRUDExample\\Views\\Shared\\_GridColumnHeader.cshtml",
+              "RelativeToolTip": "CRUDExample\\Views\\Shared\\_GridColumnHeader.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T22:08:17.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\CRUDExample\\Views\\Persons\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDExample\\Views\\Persons\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\CRUDExample\\Views\\Persons\\Index.cshtml",
+              "RelativeToolTip": "CRUDExample\\Views\\Persons\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T22:08:03.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonsService.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\Services\\PersonsService.cs",
+              "RelativeDocumentMoniker": "Services\\PersonsService.cs",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\Services\\PersonsService.cs",
+              "RelativeToolTip": "Services\\PersonsService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwD0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T19:16:08.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "persons.json",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\CRUDExample\\persons.json",
+              "RelativeDocumentMoniker": "CRUDExample\\persons.json",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\CRUDExample\\persons.json",
+              "RelativeToolTip": "CRUDExample\\persons.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-29T19:08:50.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\CRUDExample\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\CRUDExample\\Program.cs",
+              "RelativeToolTip": "CRUDExample\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T19:08:34.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\CRUDExample\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUDExample\\appsettings.json",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\CRUDExample\\appsettings.json",
+              "RelativeToolTip": "CRUDExample\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-29T19:08:57.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "countries.json",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\CRUDExample\\countries.json",
+              "RelativeDocumentMoniker": "CRUDExample\\countries.json",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\CRUDExample\\countries.json",
+              "RelativeToolTip": "CRUDExample\\countries.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-29T19:08:46.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\Entities\\PersonsDbContext.cs",
+              "RelativeDocumentMoniker": "Entities\\PersonsDbContext.cs",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\Entities\\PersonsDbContext.cs",
+              "RelativeToolTip": "Entities\\PersonsDbContext.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwEgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T19:07:34.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
