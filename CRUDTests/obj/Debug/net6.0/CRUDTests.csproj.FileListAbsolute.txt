@@ -338,3 +338,4 @@ C:\Users\Muhammed Reda\Desktop\Advanced Concepts Project\CRUDTests\obj\Debug\net
 C:\Users\Muhammed Reda\Desktop\Advanced Concepts Project\CRUDTests\obj\Debug\net6.0\ref\CRUDTests.dll
 C:\Users\Muhammed Reda\Desktop\Advanced Concepts Project\CRUDTests\bin\Debug\net6.0\AutoFixture.dll
 C:\Users\Muhammed Reda\Desktop\Advanced Concepts Project\CRUDTests\bin\Debug\net6.0\Fare.dll
+C:\Users\Muhammed Reda\Desktop\Advanced Concepts Project\CRUDTests\bin\Debug\net6.0\FluentAssertions.dll
