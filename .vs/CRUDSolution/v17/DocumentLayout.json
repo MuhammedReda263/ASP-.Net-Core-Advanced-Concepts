@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1E5DEE22-1E14-475F-B1AD-22CFE6F8477E}|Repositories\\Repositories.csproj|c:\\users\\muhammed reda\\desktop\\advanced concepts project\\repositories\\personsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5DEE22-1E14-475F-B1AD-22CFE6F8477E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\personsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8B3B00-DAB8-489E-B994-5123A7F4960D}|RepositoryContracts\\RepositoryContracts.csproj|c:\\users\\muhammed reda\\desktop\\advanced concepts project\\repositorycontracts\\icountriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8B3B00-DAB8-489E-B994-5123A7F4960D}|RepositoryContracts\\RepositoryContracts.csproj|solutionrelative:repositorycontracts\\icountriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8B3B00-DAB8-489E-B994-5123A7F4960D}|RepositoryContracts\\RepositoryContracts.csproj|c:\\users\\muhammed reda\\desktop\\advanced concepts project\\repositorycontracts\\ipersonsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8B3B00-DAB8-489E-B994-5123A7F4960D}|RepositoryContracts\\RepositoryContracts.csproj|solutionrelative:repositorycontracts\\ipersonsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5DEE22-1E14-475F-B1AD-22CFE6F8477E}|Repositories\\Repositories.csproj|c:\\users\\muhammed reda\\desktop\\advanced concepts project\\repositories\\countriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5DEE22-1E14-475F-B1AD-22CFE6F8477E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\countriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD158910-6639-408C-B008-F7220FBB6E18}|Entities\\Entities.csproj|c:\\users\\muhammed reda\\desktop\\advanced concepts project\\entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD158910-6639-408C-B008-F7220FBB6E18}|Entities\\Entities.csproj|solutionrelative:entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8B3B00-DAB8-489E-B994-5123A7F4960D}|RepositoryContracts\\RepositoryContracts.csproj|c:\\users\\muhammed reda\\desktop\\advanced concepts project\\repositorycontracts\\repositorycontracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED8B3B00-DAB8-489E-B994-5123A7F4960D}|RepositoryContracts\\RepositoryContracts.csproj|solutionrelative:repositorycontracts\\repositorycontracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\muhammed reda\\desktop\\advanced concepts project\\crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{28AA24FC-78D2-4B88-9D99-0201792CD3AA}|CRUDTests\\CRUDTests.csproj|c:\\users\\muhammed reda\\desktop\\advanced concepts project\\crudtests\\personsservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28AA24FC-78D2-4B88-9D99-0201792CD3AA}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\personsservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +43,8 @@
       "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD158910-6639-408C-B008-F7220FBB6E18}|Entities\\Entities.csproj|c:\\users\\muhammed reda\\desktop\\advanced concepts project\\entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD158910-6639-408C-B008-F7220FBB6E18}|Entities\\Entities.csproj|solutionrelative:entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\muhammed reda\\desktop\\advanced concepts project\\crudexample\\views\\shared\\_gridcolumnheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\shared\\_gridcolumnheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\muhammed reda\\desktop\\advanced concepts project\\crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51AA4BB6-DB84-4E44-A001-924D25820FA7}|Services\\Services.csproj|c:\\users\\muhammed reda\\desktop\\advanced concepts project\\services\\countriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,7 +106,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Repositories\\PersonsRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PersonsRepository.cs",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Repositories\\PersonsRepository.cs",
+              "RelativeToolTip": "Repositories\\PersonsRepository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T02:42:05.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepositoryContracts",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\RepositoryContracts\\RepositoryContracts.csproj",
+              "RelativeDocumentMoniker": "RepositoryContracts\\RepositoryContracts.csproj",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\RepositoryContracts\\RepositoryContracts.csproj",
+              "RelativeToolTip": "RepositoryContracts\\RepositoryContracts.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-03T02:24:22.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CountriesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Repositories\\CountriesRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CountriesRepository.cs",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Repositories\\CountriesRepository.cs",
+              "RelativeToolTip": "Repositories\\CountriesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T02:19:02.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPersonsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\RepositoryContracts\\IPersonsRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryContracts\\IPersonsRepository.cs",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\RepositoryContracts\\IPersonsRepository.cs",
+              "RelativeToolTip": "RepositoryContracts\\IPersonsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T01:17:37.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ICountriesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\RepositoryContracts\\ICountriesRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryContracts\\ICountriesRepository.cs",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\RepositoryContracts\\ICountriesRepository.cs",
+              "RelativeToolTip": "RepositoryContracts\\ICountriesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T01:15:52.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonsServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDTests\\PersonsServiceTest.cs",
+              "RelativeDocumentMoniker": "CRUDTests\\PersonsServiceTest.cs",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDTests\\PersonsServiceTest.cs",
+              "RelativeToolTip": "CRUDTests\\PersonsServiceTest.cs",
+              "ViewState": "AgIAAD8BAAAAAAAAAADwvxEBAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T00:59:30.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Entities\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Entities\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Entities\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Entities\\ApplicationDbContext.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwE8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T19:07:34.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CountriesServiceTest.cs",
               "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDTests\\CountriesServiceTest.cs",
               "RelativeDocumentMoniker": "CRUDTests\\CountriesServiceTest.cs",
@@ -99,33 +210,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PersonsServiceTest.cs",
-              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDTests\\PersonsServiceTest.cs",
-              "RelativeDocumentMoniker": "CRUDTests\\PersonsServiceTest.cs",
-              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDTests\\PersonsServiceTest.cs*",
-              "RelativeToolTip": "CRUDTests\\PersonsServiceTest.cs*",
-              "ViewState": "AgIAAPEBAAAAAAAAAAAmwBgCAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T00:59:30.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "CountriesService.cs",
-              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Services\\CountriesService.cs",
-              "RelativeDocumentMoniker": "Services\\CountriesService.cs",
-              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Services\\CountriesService.cs",
-              "RelativeToolTip": "Services\\CountriesService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDExample\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDExample\\Program.cs",
+              "RelativeToolTip": "CRUDExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T23:33:37.547Z",
+              "WhenOpened": "2025-06-29T19:08:34.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "CountriesController.cs",
               "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDExample\\Controllers\\CountriesController.cs",
               "RelativeDocumentMoniker": "CRUDExample\\Controllers\\CountriesController.cs",
@@ -138,7 +236,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
+              "Title": "CountriesService.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Services\\CountriesService.cs",
+              "RelativeDocumentMoniker": "Services\\CountriesService.cs",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Services\\CountriesService.cs",
+              "RelativeToolTip": "Services\\CountriesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T23:33:37.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "_GridColumnHeader.cshtml",
               "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDExample\\Views\\Shared\\_GridColumnHeader.cshtml",
               "RelativeDocumentMoniker": "CRUDExample\\Views\\Shared\\_GridColumnHeader.cshtml",
@@ -151,33 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Entities\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Entities\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Entities\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Entities\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T19:07:34.14Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDExample\\Program.cs",
-              "RelativeDocumentMoniker": "CRUDExample\\Program.cs",
-              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDExample\\Program.cs",
-              "RelativeToolTip": "CRUDExample\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T19:08:34.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "PersonsPDF.cshtml",
               "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDExample\\Views\\Persons\\PersonsPDF.cshtml",
               "RelativeDocumentMoniker": "CRUDExample\\Views\\Persons\\PersonsPDF.cshtml",
@@ -190,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "PersonsController.cs",
               "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDExample\\Controllers\\PersonsController.cs",
               "RelativeDocumentMoniker": "CRUDExample\\Controllers\\PersonsController.cs",
@@ -203,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "PersonsService.cs",
               "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Services\\PersonsService.cs",
               "RelativeDocumentMoniker": "Services\\PersonsService.cs",
@@ -216,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "persons.json",
               "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDExample\\persons.json",
               "RelativeDocumentMoniker": "CRUDExample\\persons.json",
@@ -229,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDExample\\Views\\Persons\\Index.cshtml",
               "RelativeDocumentMoniker": "CRUDExample\\Views\\Persons\\Index.cshtml",
@@ -242,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDExample\\appsettings.json",
               "RelativeDocumentMoniker": "CRUDExample\\appsettings.json",
@@ -255,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "countries.json",
               "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDExample\\countries.json",
               "RelativeDocumentMoniker": "CRUDExample\\countries.json",
