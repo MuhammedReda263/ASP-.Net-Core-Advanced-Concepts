@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDTests\\CRUDTests.csproj": {}
+    "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDTests\\CRUDTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDExample\\CRUDExample.csproj": {
+    "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\CRUDExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDExample\\CRUDExample.csproj",
+        "projectUniqueName": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\CRUDExample.csproj",
         "projectName": "CRUDExample",
-        "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDExample\\CRUDExample.csproj",
+        "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\CRUDExample.csproj",
         "packagesPath": "C:\\Users\\Muhammed Reda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDExample\\obj\\",
+        "outputPath": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Muhammed Reda\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,17 +29,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Entities\\Entities.csproj"
+              "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Repositories\\Repositories.csproj": {
-                "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Repositories\\Repositories.csproj"
+              "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Repositories\\Repositories.csproj": {
+                "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Repositories\\Repositories.csproj"
               },
-              "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\ServiceContracts\\ServiceContracts.csproj": {
-                "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\ServiceContracts\\ServiceContracts.csproj"
+              "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\ServiceContracts\\ServiceContracts.csproj": {
+                "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\ServiceContracts\\ServiceContracts.csproj"
               },
-              "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Services\\Services.csproj": {
-                "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Services\\Services.csproj"
+              "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Services\\Services.csproj"
               }
             }
           }
@@ -97,14 +97,14 @@
         }
       }
     },
-    "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDTests\\CRUDTests.csproj": {
+    "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDTests\\CRUDTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDTests\\CRUDTests.csproj",
+        "projectUniqueName": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDTests\\CRUDTests.csproj",
         "projectName": "CRUDTests",
-        "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDTests\\CRUDTests.csproj",
+        "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDTests\\CRUDTests.csproj",
         "packagesPath": "C:\\Users\\Muhammed Reda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDTests\\obj\\",
+        "outputPath": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Muhammed Reda\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -122,17 +122,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDExample\\CRUDExample.csproj": {
-                "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDExample\\CRUDExample.csproj"
+              "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\CRUDExample.csproj": {
+                "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\CRUDExample.csproj"
               },
-              "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Entities\\Entities.csproj"
+              "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\ServiceContracts\\ServiceContracts.csproj": {
-                "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\ServiceContracts\\ServiceContracts.csproj"
+              "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\ServiceContracts\\ServiceContracts.csproj": {
+                "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\ServiceContracts\\ServiceContracts.csproj"
               },
-              "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Services\\Services.csproj": {
-                "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Services\\Services.csproj"
+              "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Services\\Services.csproj"
               }
             }
           }
@@ -225,14 +225,14 @@
         }
       }
     },
-    "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Entities\\Entities.csproj": {
+    "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Muhammed Reda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Muhammed Reda\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -298,14 +298,14 @@
         }
       }
     },
-    "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Repositories\\Repositories.csproj": {
+    "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Repositories\\Repositories.csproj",
+        "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\Muhammed Reda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Repositories\\obj\\",
+        "outputPath": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Muhammed Reda\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -323,11 +323,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Entities\\Entities.csproj"
+              "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\RepositoryContracts\\RepositoryContracts.csproj": {
-                "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\RepositoryContracts\\RepositoryContracts.csproj"
+              "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\RepositoryContracts\\RepositoryContracts.csproj": {
+                "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\RepositoryContracts\\RepositoryContracts.csproj"
               }
             }
           }
@@ -366,14 +366,14 @@
         }
       }
     },
-    "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\RepositoryContracts\\RepositoryContracts.csproj": {
+    "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\RepositoryContracts\\RepositoryContracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\RepositoryContracts\\RepositoryContracts.csproj",
+        "projectUniqueName": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\RepositoryContracts\\RepositoryContracts.csproj",
         "projectName": "RepositoryContracts",
-        "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\RepositoryContracts\\RepositoryContracts.csproj",
+        "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\RepositoryContracts\\RepositoryContracts.csproj",
         "packagesPath": "C:\\Users\\Muhammed Reda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\RepositoryContracts\\obj\\",
+        "outputPath": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\RepositoryContracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Muhammed Reda\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -391,8 +391,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Entities\\Entities.csproj"
+              "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Entities\\Entities.csproj"
               }
             }
           }
@@ -431,14 +431,14 @@
         }
       }
     },
-    "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\ServiceContracts\\ServiceContracts.csproj": {
+    "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\ServiceContracts\\ServiceContracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\ServiceContracts\\ServiceContracts.csproj",
+        "projectUniqueName": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\ServiceContracts\\ServiceContracts.csproj",
         "projectName": "ServiceContracts",
-        "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\ServiceContracts\\ServiceContracts.csproj",
+        "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\ServiceContracts\\ServiceContracts.csproj",
         "packagesPath": "C:\\Users\\Muhammed Reda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\ServiceContracts\\obj\\",
+        "outputPath": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\ServiceContracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Muhammed Reda\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -456,8 +456,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Entities\\Entities.csproj"
+              "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Entities\\Entities.csproj"
               }
             }
           }
@@ -502,14 +502,14 @@
         }
       }
     },
-    "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Services\\Services.csproj": {
+    "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Services\\Services.csproj",
+        "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\Muhammed Reda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Services\\obj\\",
+        "outputPath": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Muhammed Reda\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -527,11 +527,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\RepositoryContracts\\RepositoryContracts.csproj": {
-                "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\RepositoryContracts\\RepositoryContracts.csproj"
+              "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\RepositoryContracts\\RepositoryContracts.csproj": {
+                "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\RepositoryContracts\\RepositoryContracts.csproj"
               },
-              "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\ServiceContracts\\ServiceContracts.csproj": {
-                "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\ServiceContracts\\ServiceContracts.csproj"
+              "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\ServiceContracts\\ServiceContracts.csproj": {
+                "projectPath": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\ServiceContracts\\ServiceContracts.csproj"
               }
             }
           }
