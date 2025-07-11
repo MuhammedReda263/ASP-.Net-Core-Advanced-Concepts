@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MgtjhSxGF6M=",
+  "dgSpecHash": "pFd9u21txSA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Muhammed Reda\\Desktop\\New folder\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Muhammed Reda\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Muhammed Reda\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
