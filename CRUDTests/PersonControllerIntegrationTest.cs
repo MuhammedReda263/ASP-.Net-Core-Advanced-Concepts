@@ -1,4 +1,6 @@
-﻿using FluentAssertions;
+﻿using Fizzler.Systems.HtmlAgilityPack;
+using FluentAssertions;
+using HtmlAgilityPack;
 using Microsoft.AspNetCore.Mvc.Testing;
 using System;
 using System.Collections.Generic;
@@ -23,6 +25,13 @@ namespace CRUDTests
         {
             HttpResponseMessage Response = await _client.GetAsync("/persons/index");
             Response.EnsureSuccessStatusCode();
+
+            string content = await Response.Content.ReadAsStringAsync();
+            HtmlDocument html = new HtmlDocument();
+            html.LoadHtml(content);
+            var document = html.DocumentNode;
+            document.QuerySelector("table.persons").Should().NotBeNull();
+
         
 
         }
