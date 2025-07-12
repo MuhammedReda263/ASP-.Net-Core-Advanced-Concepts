@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\muhammed reda\\desktop\\asp-.net-core-advanced-concepts\\crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\muhammed reda\\desktop\\asp-.net-core-advanced-concepts\\crudexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\muhammed reda\\desktop\\asp-.net-core-advanced-concepts\\crudexample\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\muhammed reda\\desktop\\asp-.net-core-advanced-concepts\\crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E5DEE22-1E14-475F-B1AD-22CFE6F8477E}|Repositories\\Repositories.csproj|c:\\users\\muhammed reda\\desktop\\asp-.net-core-advanced-concepts\\repositories\\personsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\muhammed reda\\desktop\\asp-.net-core-advanced-concepts\\crudexample\\persons.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\persons.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\muhammed reda\\desktop\\asp-.net-core-advanced-concepts\\crudexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\muhammed reda\\desktop\\asp-.net-core-advanced-concepts\\crudexample\\countries.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -78,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PersonsRepository.cs",
               "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Repositories\\PersonsRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\PersonsRepository.cs",
@@ -124,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "persons.json",
               "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\persons.json",
               "RelativeDocumentMoniker": "CRUDExample\\persons.json",
@@ -137,33 +137,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\Program.cs",
               "RelativeDocumentMoniker": "CRUDExample\\Program.cs",
-              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\Program.cs",
-              "RelativeToolTip": "CRUDExample\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABmAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\Program.cs*",
+              "RelativeToolTip": "CRUDExample\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T21:02:55.657Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\appsettings.json",
               "RelativeDocumentMoniker": "CRUDExample\\appsettings.json",
-              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\appsettings.json",
-              "RelativeToolTip": "CRUDExample\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\appsettings.json*",
+              "RelativeToolTip": "CRUDExample\\appsettings.json*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-11T22:15:42.625Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PersonsController.cs",
               "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\Controllers\\PersonsController.cs",
               "RelativeDocumentMoniker": "CRUDExample\\Controllers\\PersonsController.cs",
@@ -202,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PersonsService.cs",
               "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Services\\PersonsService.cs",
               "RelativeDocumentMoniker": "Services\\PersonsService.cs",
@@ -219,9 +219,9 @@
               "Title": "CRUDExample.csproj",
               "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\CRUDExample.csproj",
               "RelativeDocumentMoniker": "CRUDExample\\CRUDExample.csproj",
-              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\CRUDExample.csproj",
-              "RelativeToolTip": "CRUDExample\\CRUDExample.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\CRUDExample.csproj*",
+              "RelativeToolTip": "CRUDExample\\CRUDExample.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-07-10T23:51:22.063Z",
               "EditorCaption": ""
