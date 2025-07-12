@@ -1,54 +1,74 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\",
+  "WorkspaceRootPath": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28AA24FC-78D2-4B88-9D99-0201792CD3AA}|CRUDTests\\CRUDTests.csproj|c:\\users\\muhammed reda\\desktop\\advanced concepts project\\crudtests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28AA24FC-78D2-4B88-9D99-0201792CD3AA}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28AA24FC-78D2-4B88-9D99-0201792CD3AA}|CRUDTests\\CRUDTests.csproj|c:\\users\\muhammed reda\\desktop\\advanced concepts project\\crudtests\\personcontrollerintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28AA24FC-78D2-4B88-9D99-0201792CD3AA}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\personcontrollerintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\muhammed reda\\desktop\\advanced concepts project\\crudexample\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\muhammed reda\\desktop\\advanced concepts project\\crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28AA24FC-78D2-4B88-9D99-0201792CD3AA}|CRUDTests\\CRUDTests.csproj|c:\\users\\muhammed reda\\desktop\\advanced concepts project\\crudtests\\crudtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{28AA24FC-78D2-4B88-9D99-0201792CD3AA}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\crudtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\muhammed reda\\desktop\\advanced concepts project\\crudexample\\crudexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\crudexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD158910-6639-408C-B008-F7220FBB6E18}|Entities\\Entities.csproj|c:\\users\\muhammed reda\\desktop\\advanced concepts project\\entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CD158910-6639-408C-B008-F7220FBB6E18}|Entities\\Entities.csproj|solutionrelative:entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\muhammed reda\\desktop\\advanced concepts project\\crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\muhammed reda\\desktop\\asp-.net-core-advanced-concepts\\crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD158910-6639-408C-B008-F7220FBB6E18}|Entities\\Entities.csproj|c:\\users\\muhammed reda\\desktop\\advanced concepts project\\entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\muhammed reda\\desktop\\asp-.net-core-advanced-concepts\\crudexample\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5DEE22-1E14-475F-B1AD-22CFE6F8477E}|Repositories\\Repositories.csproj|c:\\users\\muhammed reda\\desktop\\asp-.net-core-advanced-concepts\\repositories\\personsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5DEE22-1E14-475F-B1AD-22CFE6F8477E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\personsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51AA4BB6-DB84-4E44-A001-924D25820FA7}|Services\\Services.csproj|c:\\users\\muhammed reda\\desktop\\asp-.net-core-advanced-concepts\\services\\personsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51AA4BB6-DB84-4E44-A001-924D25820FA7}|Services\\Services.csproj|solutionrelative:services\\personsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\muhammed reda\\desktop\\asp-.net-core-advanced-concepts\\crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\muhammed reda\\desktop\\asp-.net-core-advanced-concepts\\crudexample\\persons.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\persons.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\muhammed reda\\desktop\\asp-.net-core-advanced-concepts\\crudexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\muhammed reda\\desktop\\asp-.net-core-advanced-concepts\\crudexample\\countries.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\countries.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AA24FC-78D2-4B88-9D99-0201792CD3AA}|CRUDTests\\CRUDTests.csproj|c:\\users\\muhammed reda\\desktop\\asp-.net-core-advanced-concepts\\crudtests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AA24FC-78D2-4B88-9D99-0201792CD3AA}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AA24FC-78D2-4B88-9D99-0201792CD3AA}|CRUDTests\\CRUDTests.csproj|c:\\users\\muhammed reda\\desktop\\asp-.net-core-advanced-concepts\\crudtests\\personcontrollerintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AA24FC-78D2-4B88-9D99-0201792CD3AA}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\personcontrollerintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\muhammed reda\\desktop\\asp-.net-core-advanced-concepts\\crudexample\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AA24FC-78D2-4B88-9D99-0201792CD3AA}|CRUDTests\\CRUDTests.csproj|c:\\users\\muhammed reda\\desktop\\asp-.net-core-advanced-concepts\\crudtests\\crudtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28AA24FC-78D2-4B88-9D99-0201792CD3AA}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\crudtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\muhammed reda\\desktop\\asp-.net-core-advanced-concepts\\crudexample\\crudexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\crudexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD158910-6639-408C-B008-F7220FBB6E18}|Entities\\Entities.csproj|c:\\users\\muhammed reda\\desktop\\asp-.net-core-advanced-concepts\\entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CD158910-6639-408C-B008-F7220FBB6E18}|Entities\\Entities.csproj|solutionrelative:entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD158910-6639-408C-B008-F7220FBB6E18}|Entities\\Entities.csproj|c:\\users\\muhammed reda\\desktop\\asp-.net-core-advanced-concepts\\entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD158910-6639-408C-B008-F7220FBB6E18}|Entities\\Entities.csproj|solutionrelative:entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28AA24FC-78D2-4B88-9D99-0201792CD3AA}|CRUDTests\\CRUDTests.csproj|c:\\users\\muhammed reda\\desktop\\advanced concepts project\\crudtests\\personsservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28AA24FC-78D2-4B88-9D99-0201792CD3AA}|CRUDTests\\CRUDTests.csproj|c:\\users\\muhammed reda\\desktop\\asp-.net-core-advanced-concepts\\crudtests\\personsservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28AA24FC-78D2-4B88-9D99-0201792CD3AA}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\personsservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28AA24FC-78D2-4B88-9D99-0201792CD3AA}|CRUDTests\\CRUDTests.csproj|c:\\users\\muhammed reda\\desktop\\advanced concepts project\\crudtests\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28AA24FC-78D2-4B88-9D99-0201792CD3AA}|CRUDTests\\CRUDTests.csproj|c:\\users\\muhammed reda\\desktop\\asp-.net-core-advanced-concepts\\crudtests\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28AA24FC-78D2-4B88-9D99-0201792CD3AA}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51AA4BB6-DB84-4E44-A001-924D25820FA7}|Services\\Services.csproj|c:\\users\\muhammed reda\\desktop\\advanced concepts project\\services\\personsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51AA4BB6-DB84-4E44-A001-924D25820FA7}|Services\\Services.csproj|solutionrelative:services\\personsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,60 +78,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDExample\\Views\\Persons\\Index.cshtml",
-              "RelativeDocumentMoniker": "CRUDExample\\Views\\Persons\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDExample\\Views\\Persons\\Index.cshtml",
-              "RelativeToolTip": "CRUDExample\\Views\\Persons\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-11T00:53:49.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CRUDExample",
-              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDExample\\CRUDExample.csproj",
-              "RelativeDocumentMoniker": "CRUDExample\\CRUDExample.csproj",
-              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDExample\\CRUDExample.csproj",
-              "RelativeToolTip": "CRUDExample\\CRUDExample.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-10T23:51:22.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CustomWebApplicationFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDTests\\CustomWebApplicationFactory.cs",
-              "RelativeDocumentMoniker": "CRUDTests\\CustomWebApplicationFactory.cs",
-              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDTests\\CustomWebApplicationFactory.cs",
-              "RelativeToolTip": "CRUDTests\\CustomWebApplicationFactory.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAB5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T22:56:15.559Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CRUDTests",
-              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDTests\\CRUDTests.csproj",
-              "RelativeDocumentMoniker": "CRUDTests\\CRUDTests.csproj",
-              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDTests\\CRUDTests.csproj",
-              "RelativeToolTip": "CRUDTests\\CRUDTests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-10T20:49:01.208Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -130,37 +98,180 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PersonControllerIntegrationTest.cs",
-              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDTests\\PersonControllerIntegrationTest.cs",
-              "RelativeDocumentMoniker": "CRUDTests\\PersonControllerIntegrationTest.cs",
-              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDTests\\PersonControllerIntegrationTest.cs",
-              "RelativeToolTip": "CRUDTests\\PersonControllerIntegrationTest.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "PersonsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Repositories\\PersonsRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PersonsRepository.cs",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Repositories\\PersonsRepository.cs",
+              "RelativeToolTip": "Repositories\\PersonsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T22:28:54.589Z",
+              "WhenOpened": "2025-07-11T23:20:12.491Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CRUDExample\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\appsettings.Development.json",
+              "RelativeToolTip": "CRUDExample\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-11T22:19:34.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "persons.json",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\persons.json",
+              "RelativeDocumentMoniker": "CRUDExample\\persons.json",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\persons.json",
+              "RelativeToolTip": "CRUDExample\\persons.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-11T22:15:52.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\Program.cs*",
+              "RelativeToolTip": "CRUDExample\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T21:02:55.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUDExample\\appsettings.json",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\appsettings.json",
+              "RelativeToolTip": "CRUDExample\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-11T22:15:42.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "PersonsController.cs",
-              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDExample\\Controllers\\PersonsController.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\Controllers\\PersonsController.cs",
               "RelativeDocumentMoniker": "CRUDExample\\Controllers\\PersonsController.cs",
-              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDExample\\Controllers\\PersonsController.cs",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\Controllers\\PersonsController.cs",
               "RelativeToolTip": "CRUDExample\\Controllers\\PersonsController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwCAAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwC4AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T22:31:59.234Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Entities",
-              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Entities\\Entities.csproj",
+              "DocumentIndex": 7,
+              "Title": "countries.json",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\countries.json",
+              "RelativeDocumentMoniker": "CRUDExample\\countries.json",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\countries.json",
+              "RelativeToolTip": "CRUDExample\\countries.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-11T22:15:50.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomWebApplicationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDTests\\CustomWebApplicationFactory.cs",
+              "RelativeDocumentMoniker": "CRUDTests\\CustomWebApplicationFactory.cs",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDTests\\CustomWebApplicationFactory.cs",
+              "RelativeToolTip": "CRUDTests\\CustomWebApplicationFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBoAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T22:56:15.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonsService.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Services\\PersonsService.cs",
+              "RelativeDocumentMoniker": "Services\\PersonsService.cs",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Services\\PersonsService.cs",
+              "RelativeToolTip": "Services\\PersonsService.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowG4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T22:02:48.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CRUDExample.csproj",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\CRUDExample.csproj",
+              "RelativeDocumentMoniker": "CRUDExample\\CRUDExample.csproj",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\CRUDExample.csproj",
+              "RelativeToolTip": "CRUDExample\\CRUDExample.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T23:51:22.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\Views\\Persons\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDExample\\Views\\Persons\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDExample\\Views\\Persons\\Index.cshtml",
+              "RelativeToolTip": "CRUDExample\\Views\\Persons\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAIBJwC4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-11T00:53:49.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CRUDTests.csproj",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDTests\\CRUDTests.csproj",
+              "RelativeDocumentMoniker": "CRUDTests\\CRUDTests.csproj",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDTests\\CRUDTests.csproj",
+              "RelativeToolTip": "CRUDTests\\CRUDTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T20:49:01.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PersonControllerIntegrationTest.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDTests\\PersonControllerIntegrationTest.cs",
+              "RelativeDocumentMoniker": "CRUDTests\\PersonControllerIntegrationTest.cs",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDTests\\PersonControllerIntegrationTest.cs",
+              "RelativeToolTip": "CRUDTests\\PersonControllerIntegrationTest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIBJwBMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T22:28:54.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Entities.csproj",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Entities\\Entities.csproj",
               "RelativeDocumentMoniker": "Entities\\Entities.csproj",
-              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Entities\\Entities.csproj",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Entities\\Entities.csproj",
               "RelativeToolTip": "Entities\\Entities.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -169,11 +280,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Entities\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Entities\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Entities\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Entities\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\Entities\\ApplicationDbContext.cs",
               "RelativeToolTip": "Entities\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -182,54 +293,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "PersonsServiceTest.cs",
-              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDTests\\PersonsServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDTests\\PersonsServiceTest.cs",
               "RelativeDocumentMoniker": "CRUDTests\\PersonsServiceTest.cs",
-              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDTests\\PersonsServiceTest.cs",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDTests\\PersonsServiceTest.cs",
               "RelativeToolTip": "CRUDTests\\PersonsServiceTest.cs",
-              "ViewState": "AgIAAOMBAAAAAAAAAAAuwPwBAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAOIBAAAAAAAAAAAuwOIBAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T22:45:07.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDExample\\Program.cs",
-              "RelativeDocumentMoniker": "CRUDExample\\Program.cs",
-              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDExample\\Program.cs",
-              "RelativeToolTip": "CRUDExample\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T21:02:55.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "CountriesServiceTest.cs",
-              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDTests\\CountriesServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDTests\\CountriesServiceTest.cs",
               "RelativeDocumentMoniker": "CRUDTests\\CountriesServiceTest.cs",
-              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\CRUDTests\\CountriesServiceTest.cs",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\ASP-.Net-Core-Advanced-Concepts\\CRUDTests\\CountriesServiceTest.cs",
               "RelativeToolTip": "CRUDTests\\CountriesServiceTest.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T22:03:03.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PersonsService.cs",
-              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Services\\PersonsService.cs",
-              "RelativeDocumentMoniker": "Services\\PersonsService.cs",
-              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\Advanced Concepts Project\\Services\\PersonsService.cs",
-              "RelativeToolTip": "Services\\PersonsService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T22:02:48.395Z",
               "EditorCaption": ""
             }
           ]
