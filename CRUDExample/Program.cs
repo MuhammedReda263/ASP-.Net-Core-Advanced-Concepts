@@ -4,8 +4,30 @@ using Microsoft.EntityFrameworkCore;
 using Entities;
 using RepositoryContracts;
 using Repositories;
+using Microsoft.Extensions.DependencyInjection;
+using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);
+
+//builder.Logging.ClearProviders();
+//builder.Logging.AddConsole();
+//builder.Logging.AddDebug();
+//builder.Logging.AddEventLog(); // For traditinal logger
+
+//Serilog
+builder.Host.UseSerilog((HostBuilderContext context, IServiceProvider services, LoggerConfiguration loggerConfiguration) => {
+
+    loggerConfiguration
+    .ReadFrom.Configuration(context.Configuration) //read configuration settings from built-in IConfiguration
+    .ReadFrom.Services(services); //read out current app's services and make them available to serilog
+});
+
+builder.Services.AddHttpLogging(logging => {
+logging.LoggingFields = Microsoft.AspNetCore.HttpLogging.HttpLoggingFields.RequestPropertiesAndHeaders
+    | Microsoft.AspNetCore.HttpLogging.HttpLoggingFields.ResponsePropertiesAndHeaders
+    ;
+});
+
 builder.Services.AddControllersWithViews();
 
 //add services into IoC container
@@ -23,11 +45,22 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 
 var app = builder.Build();
 
+ 
+
 if (builder.Environment.IsDevelopment())
 {
  app.UseDeveloperExceptionPage();
 }
 
+app.UseSerilogRequestLogging();
+
+app.Logger.LogDebug("debugggggggggggggggggggggggggggggggggggggggggg");
+app.Logger.LogError("errrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrror");
+app.Logger.LogWarning("warninggggggggggggggggggggggggggggggggggggggggg");
+app.Logger.LogCritical("Criticaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaal");
+app.Logger.LogInformation("Informatiiiiiiiiiiiiiiiiiiiiiiiiiiiiion");
+
+app.UseHttpLogging();
 if (builder.Environment.IsEnvironment("Test") == false) 
 Rotativa.AspNetCore.RotativaConfiguration.Setup("wwwroot", wkhtmltopdfRelativePath: "Rotativa"); // For Pdf
 
