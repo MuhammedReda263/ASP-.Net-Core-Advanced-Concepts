@@ -80,6 +80,14 @@
             "Serilog.AspNetCore": {
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "Serilog.Sinks.MSSqlServer": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
+            "Serilog.Sinks.Seq": {
+              "target": "Package",
+              "version": "[9.0.0, )"
             }
           },
           "imports": [
@@ -438,6 +446,14 @@
             "EPPlus": {
               "target": "Package",
               "version": "[6.0.6, )"
+            },
+            "Serilog.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "SerilogTimings": {
+              "target": "Package",
+              "version": "[3.1.0, )"
             }
           },
           "imports": [

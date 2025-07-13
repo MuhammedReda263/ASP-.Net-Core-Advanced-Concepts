@@ -52,6 +52,8 @@ if (builder.Environment.IsDevelopment())
  app.UseDeveloperExceptionPage();
 }
 
+app.UseSerilogRequestLogging();
+
 app.Logger.LogDebug("debugggggggggggggggggggggggggggggggggggggggggg");
 app.Logger.LogError("errrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrror");
 app.Logger.LogWarning("warninggggggggggggggggggggggggggggggggggggggggg");
