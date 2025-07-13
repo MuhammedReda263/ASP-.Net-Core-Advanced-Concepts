@@ -17,6 +17,8 @@ using RepositoryContracts;
 using Moq;
 using AutoFixture.Kernel;
 using System.Linq.Expressions;
+using Microsoft.Extensions.Logging;
+using Serilog;
 
 namespace CRUDTests
 {
@@ -46,9 +48,11 @@ namespace CRUDTests
             _personsRepositoryMock = new Mock<IPersonsRepository>();
             _personsRepository = _personsRepositoryMock.Object;
 
+            var diagnosticContextMock = new Mock<IDiagnosticContext>();
+            var loggerMock = new Mock<ILogger<PersonsService>>();
             ApplicationDbContext dbContext = dbContextMock.Object;
             _countriesService = new CountriesService(null);
-            _personService = new PersonsService(_personsRepository);
+            _personService = new PersonsService(_personsRepository,loggerMock.Object, diagnosticContextMock.Object);
       
       _testOutputHelper = testOutputHelper;
     }
