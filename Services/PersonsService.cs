@@ -107,9 +107,8 @@ namespace Services
                    temp.Email.Contains(searchString)),
 
                     nameof(PersonResponse.DateOfBirth) =>
-                  await _personsRepository.GetFilteredPersons(temp => temp.DateOfBirth.HasValue &&
-        temp.DateOfBirth.Value.ToString("dd MMMM yyyy").Contains(searchString)
-),
+                  await _personsRepository.GetFilteredPersons(temp =>
+                   temp.DateOfBirth.Value.ToString("dd MMMM YYYY").Contains(searchString)),
 
                     nameof(PersonResponse.Gender) =>
                    await _personsRepository.GetFilteredPersons(temp =>
