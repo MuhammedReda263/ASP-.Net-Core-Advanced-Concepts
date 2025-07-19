@@ -6,6 +6,7 @@ using RepositoryContracts;
 using Repositories;
 using Microsoft.Extensions.DependencyInjection;
 using Serilog;
+using CRUDExample.Filters.ActionFilters;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -28,7 +29,14 @@ logging.LoggingFields = Microsoft.AspNetCore.HttpLogging.HttpLoggingFields.Reque
     ;
 });
 
-builder.Services.AddControllersWithViews();
+//builder.Services.AddControllersWithViews();
+builder.Services.AddControllersWithViews(options => {
+    var logger = builder.Services.BuildServiceProvider().GetRequiredService<ILogger<PersonHeaderActionFilter>>();
+    options.Filters.Add(new PersonHeaderActionFilter(logger, "CustomKeyFromGlobal", "CustomValueFromGlobal",2)); // We implement iorderdfilter to can add value to order in this global filter
+    }
+    //options.Filters.Add<PersonHeaderActionFilter>(5) if your filter dosn't have additional paramaters and you don't need to implement iorderdfilter
+    );
+
 
 //add services into IoC container
 builder.Services.AddScoped<ICountriesService, CountriesService>();
