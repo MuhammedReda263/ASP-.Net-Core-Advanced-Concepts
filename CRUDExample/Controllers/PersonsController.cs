@@ -1,4 +1,5 @@
 ﻿using CRUDExample.Filters.ActionFilters;
+using CRUDExample.Filters.ExceptionsFilters;
 using CRUDExample.Filters.ResultFilters;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
@@ -12,7 +13,8 @@ namespace CRUDExample.Controllers
 {
  [Route("[controller]")]
  [TypeFilter(typeof(PersonHeaderActionFilter), Arguments = new object[] { "CustomKeyFromController", "CustomValueFromController",3} ,Order =3)]
-    public class PersonsController : Controller
+ [TypeFilter(typeof(HandleExceptionFilter))]
+ public class PersonsController : Controller
  {
   //private fields
   private readonly IPersonsService _personsService;
