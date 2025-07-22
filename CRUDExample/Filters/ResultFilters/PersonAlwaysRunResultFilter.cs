@@ -10,6 +10,10 @@ namespace CRUDExample.Filters.ResultFilters
 
         public void OnResultExecuting(ResultExecutingContext context)
         {
+            if (context.Filters.OfType<SkipFilter>().Any()) // check if the skipfilter exisit ,this filter will ignore him self
+            { 
+                return;
+            }
         }
     }
 }
