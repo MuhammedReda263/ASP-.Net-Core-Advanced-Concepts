@@ -29,10 +29,18 @@ logging.LoggingFields = Microsoft.AspNetCore.HttpLogging.HttpLoggingFields.Reque
     ;
 });
 
+builder.Services.AddTransient<PersonHeaderActionFilter>(); // need this inject in factory
+
 //builder.Services.AddControllersWithViews();
 builder.Services.AddControllersWithViews(options => {
     var logger = builder.Services.BuildServiceProvider().GetRequiredService<ILogger<PersonHeaderActionFilter>>();
-    options.Filters.Add(new PersonHeaderActionFilter(logger, "CustomKeyFromGlobal", "CustomValueFromGlobal",2)); // We implement iorderdfilter to can add value to order in this global filter
+    options.Filters.Add(new PersonHeaderActionFilter(logger)
+    {
+        Key = "My-Key-From-Global",
+        Value = "My-Value-From-Global",
+        Order = 2
+    }
+        ); // We implement iorderdfilter to can add value to order in this global filter
     }
     //options.Filters.Add<PersonHeaderActionFilter>(5) if your filter dosn't have additional paramaters and you don't need to implement iorderdfilter
     );

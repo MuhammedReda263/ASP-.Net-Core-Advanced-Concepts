@@ -2,20 +2,43 @@
 
 namespace CRUDExample.Filters.ActionFilters
 {
+
+    public class ResponseHeaderFilterFactoryAttribute : Attribute, IFilterFactory
+    {
+        public bool IsReusable => false;
+        private string? Key { get; set; }
+        private string? Value { get; set; }
+        private int Order { get; set; }
+        public ResponseHeaderFilterFactoryAttribute(string key, string value, int order)
+        {
+            Key = key;
+            Value = value;
+            Order = order;
+        }
+
+
+        public IFilterMetadata CreateInstance(IServiceProvider serviceProvider)
+        {
+            var filter = serviceProvider.GetRequiredService<PersonHeaderActionFilter>(); // we do DI in p.cs to make this line work 
+            filter.Key = Key;
+            filter.Value = Value;
+            filter.Order = Order;
+            return filter;
+        }
+
+    }
+
     public class PersonHeaderActionFilter : IAsyncActionFilter , IOrderedFilter
     {    
         private readonly ILogger<PersonHeaderActionFilter> _logger;
-        private readonly string Key; 
-        private readonly string Value;
-
+        public string Key { get; set; }
+        public string Value { get; set; }
         public int Order { get; set; } // it's for global filter Specifically in program.cs
 
-        public PersonHeaderActionFilter(ILogger<PersonHeaderActionFilter> logger, string key, string value,int order)
+        public PersonHeaderActionFilter(ILogger<PersonHeaderActionFilter> logger)
         {
             _logger = logger;
-             Key = key;
-             Value = value;
-             Order = order;
+        
         }
         //public void OnActionExecuting(ActionExecutingContext context)
         //{
@@ -39,4 +62,6 @@ namespace CRUDExample.Filters.ActionFilters
 
         }
     }
+
+
 }

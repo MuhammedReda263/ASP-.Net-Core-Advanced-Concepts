@@ -12,8 +12,9 @@ using System.IO;
 namespace CRUDExample.Controllers
 {
  [Route("[controller]")]
- [TypeFilter(typeof(PersonHeaderActionFilter), Arguments = new object[] { "CustomKeyFromController", "CustomValueFromController",3} ,Order =3)]
- [TypeFilter(typeof(HandleExceptionFilter))]
+    //[TypeFilter(typeof(PersonHeaderActionFilter), Arguments = new object[] { "CustomKeyFromController", "CustomValueFromController",3} ,Order =3)]
+    [ResponseHeaderFilterFactory("My-Key-From-Controller", "My-Value-From-Controller", 3)]
+    [TypeFilter(typeof(HandleExceptionFilter))]
  public class PersonsController : Controller
  {
   //private fields
@@ -34,8 +35,9 @@ namespace CRUDExample.Controllers
   [Route("[action]")]
   [Route("/")]
  [TypeFilter(typeof(PersonListActionFilter),Order =4)]
- [TypeFilter(typeof(PersonHeaderActionFilter),Arguments = new object[] {"CustomKeyFromAction","CustomValueFromAction",1} ,Order =1)]
- [TypeFilter(typeof(PersonsListResultFilter))]
+        //[TypeFilter(typeof(PersonHeaderActionFilter),Arguments = new object[] {"CustomKeyFromAction","CustomValueFromAction",1} ,Order =1)]
+        [ResponseHeaderFilterFactory("MyKey-FromAction", "MyValue-From-Action", 1)]
+        [TypeFilter(typeof(PersonsListResultFilter))]
   public async Task<IActionResult> Index(string searchBy, string? searchString, string sortBy = nameof(PersonResponse.PersonName), SortOrderOptions sortOrder = SortOrderOptions.ASC)
   {
             _logger.LogInformation("index action method from personController");
@@ -69,7 +71,8 @@ namespace CRUDExample.Controllers
   //Url: persons/create
   [Route("[action]")]
   [HttpGet]
-  public async Task<IActionResult> Create()
+        [ResponseHeaderFilterFactory("my-key", "my-value", 4)]
+        public async Task<IActionResult> Create()
   {
    List<CountryResponse> countries = await _countriesService.GetAllCountries();
    ViewBag.Countries = countries.Select(temp =>
