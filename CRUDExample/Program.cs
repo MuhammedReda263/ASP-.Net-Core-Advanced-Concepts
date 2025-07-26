@@ -8,6 +8,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Serilog;
 using CRUDExample.Filters.ActionFilters;
 using CRUDExample.StartUpExtensions;
+using CRUDExample.Middleware;
 
 var services = WebApplication.CreateBuilder(args);
 
@@ -28,11 +29,16 @@ services.Services.ConfigureServices(services.Configuration);
 
 var app = services.Build();
 
- 
 
-if (services.Environment.IsDevelopment())
+
+if (app.Environment.IsDevelopment())
 {
- app.UseDeveloperExceptionPage();
+    app.UseDeveloperExceptionPage();
+}
+else
+{
+	app.UseExceptionHandler("/Error");
+	app.UseMiddleware<ExceptionHandlingMiddleware>();
 }
 
 app.UseSerilogRequestLogging();
